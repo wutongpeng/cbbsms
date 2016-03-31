@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+     
+    <TextView
+        android:id="@+id/id"
+        android:layout_width="175.0dip"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:singleLine="true"
+        android:text="采集次数"
+        android:textSize="20.0sp" />
+
+    <TextView
+        android:id="@+id/timeview"
+        android:layout_width="175.0dip"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:singleLine="true"
+        android:text="采集次数"
+        android:textSize="20.0sp" />
+
+    <TextView
+        android:id="@+id/dataview"
+        android:layout_width="200.0dip"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:singleLine="true"
+        android:text="采集次数"
+        android:textSize="20.0sp" />
+
+</LinearLayout>

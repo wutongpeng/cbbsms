@@ -1,0 +1,56 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/zd"
+    android:orientation="vertical" >
+
+   
+
+    <LinearLayout
+        android:id="@+id/head"
+        android:layout_width="1000dip"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="175.0dip"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="采集次数"
+            android:textColor="@android:color/black"
+            android:textSize="20.0sp" >
+        </TextView>
+
+        <TextView
+            android:layout_width="175.0dip"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="采集数据"
+            android:textColor="@android:color/black"
+            android:textSize="20.0sp" >
+        </TextView>
+
+        <TextView
+            android:layout_width="200.0dip"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="采集时间"
+            android:textColor="@android:color/black"
+            android:textSize="20.0sp" >
+        </TextView>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:divider="@drawable/itemline"
+        android:dividerHeight="20dp" >
+    </ListView>
+
+</LinearLayout>

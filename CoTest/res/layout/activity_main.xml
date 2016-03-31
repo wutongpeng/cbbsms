@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+    
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+       
+        android:orientation="vertical" 
+         android:background="@drawable/zd">
+
+        <RelativeLayout
+            android:id="@+id/title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+    
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="情景"
+                android:textSize="20dp" />
+
+            <ImageButton
+                android:id="@+id/setting"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dip"
+                android:background="@drawable/setting_unsel"
+                android:gravity="center"
+                android:onClick="onClick"
+                android:text="配置"
+                android:textSize="18dp" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.59"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="5dip" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingBottom="8dip" >
+
+                <ImageButton
+                    android:id="@+id/openCloseLamp"
+                    android:layout_width="105dp"
+                    android:layout_height="105dp"
+                    android:background="@layout/lamp_btn_press"
+                    android:contentDescription="04"
+                    android:onClick="onImageButton" />
+
+                <ImageButton
+                    android:id="@+id/tem_hud_button"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginLeft="15dp"
+                    android:background="@layout/temper_btn_press"
+                    android:contentDescription="09"
+                    android:onClick="onImageButton" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingBottom="8dip" >
+
+                <ImageButton
+                    android:id="@+id/humidity_button"
+                    android:layout_width="105dp"
+                    android:layout_height="105dp"
+                    android:background="@layout/hum_btn_press"
+                    android:contentDescription="04"
+                    android:onClick="onImageButton" />
+
+                <ImageButton
+                    android:id="@+id/light_button"
+                    android:layout_width="105dp"
+                    android:layout_height="105dp"
+                    android:layout_marginLeft="15dp"
+                    android:background="@layout/lig_btn_press"
+                    android:contentDescription="05"
+                    android:onClick="onImageButton" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="114dp"
+                android:orientation="horizontal"
+                android:paddingBottom="8dip" >
+
+                <ImageButton
+                    android:id="@+id/smoke_button"
+                    android:layout_width="107dp"
+                    android:layout_height="95dp"
+                    android:background="@layout/smo_btn_press"
+                    android:contentDescription="04"
+                    android:onClick="onImageButton" />
+
+                <ImageButton
+                    android:id="@+id/motor_button"
+                    android:layout_width="105dp"
+                    android:layout_height="93dp"
+                    android:layout_marginLeft="15dp"
+                    android:background="@layout/motordriver_btn_press"
+                    android:contentDescription="09"
+                    android:onClick="onImageButton" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="114dp"
+                android:orientation="horizontal"
+                android:paddingBottom="8dip" >
+
+                <ImageButton
+                    android:id="@+id/co2_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@layout/co_btn_press"
+                    android:contentDescription="07"
+                    android:onClick="onImageButton" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+ 

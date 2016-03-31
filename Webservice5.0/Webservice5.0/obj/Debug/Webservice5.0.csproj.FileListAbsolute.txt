@@ -1,0 +1,5 @@
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\Webservice5.0\Webservice5.0\bin\StockManageWebservice.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\Webservice5.0\Webservice5.0\bin\StockManageWebservice.pdb
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\Webservice5.0\Webservice5.0\obj\Debug\Webservice5.0.csprojResolveAssemblyReference.cache
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\Webservice5.0\Webservice5.0\obj\Debug\StockManageWebservice.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\Webservice5.0\Webservice5.0\obj\Debug\StockManageWebservice.pdb

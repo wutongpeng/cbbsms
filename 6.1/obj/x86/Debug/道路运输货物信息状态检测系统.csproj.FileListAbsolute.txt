@@ -1,0 +1,369 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\道路运输货物信息状态检测系统\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\道路运输货物信息状态检测系统\obj\x86\Debug\道路运输货物信息状态检测系统.Properties.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\道路运输货物信息状态检测系统\obj\x86\Debug\道路运输货物信息状态检测系统.即时信息.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\道路运输货物信息状态检测系统\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\道路运输货物信息状态检测系统\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统\bin\Debug\道路运输货物信息状态检测系统.exe.config
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统\bin\Debug\道路运输货物信息状态检测系统.exe
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统\bin\Debug\道路运输货物信息状态检测系统.pdb
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统\bin\Debug\Sensor_Microsec.dll
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统\obj\x86\Debug\道路运输货物信息状态检测系统.Properties.Resources.resources
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统\obj\x86\Debug\道路运输货物信息状态检测系统.即时信息.resources
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统\obj\x86\Debug\道路运输货物信息状态检测系统.exe
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统\obj\x86\Debug\道路运输货物信息状态检测系统.pdb
+E:\临时查看的文件\道路运输货物信息状态检测系统\bin\Debug\道路运输货物信息状态检测系统.exe.config
+E:\临时查看的文件\道路运输货物信息状态检测系统\obj\x86\Debug\道路运输货物信息状态检测系统.exe
+E:\临时查看的文件\道路运输货物信息状态检测系统\obj\x86\Debug\道路运输货物信息状态检测系统.pdb
+E:\临时查看的文件\道路运输货物信息状态检测系统\bin\Debug\道路运输货物信息状态检测系统.exe
+E:\临时查看的文件\道路运输货物信息状态检测系统\bin\Debug\道路运输货物信息状态检测系统.pdb
+E:\临时查看的文件\道路运输货物信息状态检测系统\bin\Debug\log4net.dll
+E:\临时查看的文件\道路运输货物信息状态检测系统\bin\Debug\Sensor_Microsec.dll
+E:\临时查看的文件\道路运输货物信息状态检测系统\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\临时查看的文件\道路运输货物信息状态检测系统\obj\x86\Debug\道路运输货物信息状态检测系统.Properties.Resources.resources
+E:\临时查看的文件\道路运输货物信息状态检测系统\obj\x86\Debug\道路运输货物信息状态检测系统.主界面.resources
+E:\临时查看的文件\道路运输货物信息状态检测系统\obj\x86\Debug\道路运输货物信息状态检测系统.即时信息.resources
+E:\临时查看的文件\道路运输货物信息状态检测系统\obj\x86\Debug\道路运输货物信息状态检测系统.节点唤醒.resources
+E:\临时查看的文件\道路运输货物信息状态检测系统\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\临时查看的文件\道路运输货物信息状态检测系统\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统2\bin\Debug\道路运输货物信息状态检测系统.exe.config
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统2\obj\x86\Debug\道路运输货物信息状态检测系统.exe
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统2\obj\x86\Debug\道路运输货物信息状态检测系统.pdb
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统2\bin\Debug\道路运输货物信息状态检测系统.exe
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统2\bin\Debug\道路运输货物信息状态检测系统.pdb
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统2\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统2\bin\Debug\Sensor_Microsec.dll
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统2\obj\x86\Debug\道路运输货物信息状态检测系统.Properties.Resources.resources
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统2\obj\x86\Debug\道路运输货物信息状态检测系统.主界面.resources
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统2\obj\x86\Debug\道路运输货物信息状态检测系统.即时信息.resources
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统2\obj\x86\Debug\道路运输货物信息状态检测系统.节点唤醒.resources
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统2\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统2\bin\Debug\ZedGraph.Web.dll
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统2\obj\x86\Debug\道路运输货物信息状态检测系统.历史信息.resources
+C:\Users\Administrator\Desktop\道路运输货物信息状态检测系统2\obj\x86\Debug\道路运输货物信息状态检测系统.阈值设置.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3\bin\Debug\道路运输货物信息状态检测系统.exe.config
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3\obj\x86\Debug\道路运输货物信息状态检测系统.exe
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3\obj\x86\Debug\道路运输货物信息状态检测系统.pdb
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3\bin\Debug\道路运输货物信息状态检测系统.exe
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3\bin\Debug\道路运输货物信息状态检测系统.pdb
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3\bin\Debug\log4net.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3\bin\Debug\Sensor_Microsec.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3\bin\Debug\ZedGraph.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3\bin\Debug\ZedGraph.Web.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3\obj\x86\Debug\道路运输货物信息状态检测系统.csprojResolveAssemblyReference.cache
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3\obj\x86\Debug\道路运输货物信息状态检测系统.Properties.Resources.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3\obj\x86\Debug\道路运输货物信息状态检测系统.主界面.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3\obj\x86\Debug\道路运输货物信息状态检测系统.即时信息.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3\obj\x86\Debug\道路运输货物信息状态检测系统.历史信息.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3\obj\x86\Debug\道路运输货物信息状态检测系统.节点唤醒.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3\obj\x86\Debug\道路运输货物信息状态检测系统.货物管理.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3\obj\x86\Debug\道路运输货物信息状态检测系统.阈值设置.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3\obj\x86\Debug\道路运输货物信息状态检测系统.csproj.GenerateResource.Cache
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.2\bin\Debug\道路运输货物信息状态检测系统.exe.config
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.2\obj\x86\Debug\道路运输货物信息状态检测系统.exe
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.2\obj\x86\Debug\道路运输货物信息状态检测系统.pdb
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.2\bin\Debug\道路运输货物信息状态检测系统.exe
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.2\bin\Debug\道路运输货物信息状态检测系统.pdb
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.2\bin\Debug\log4net.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.2\bin\Debug\Sensor_Microsec.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.2\bin\Debug\ZedGraph.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.2\bin\Debug\ZedGraph.Web.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.2\obj\x86\Debug\道路运输货物信息状态检测系统.csprojResolveAssemblyReference.cache
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.2\obj\x86\Debug\道路运输货物信息状态检测系统.Properties.Resources.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.2\obj\x86\Debug\道路运输货物信息状态检测系统.主界面.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.2\obj\x86\Debug\道路运输货物信息状态检测系统.即时信息.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.2\obj\x86\Debug\道路运输货物信息状态检测系统.历史信息.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.2\obj\x86\Debug\道路运输货物信息状态检测系统.节点唤醒.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.2\obj\x86\Debug\道路运输货物信息状态检测系统.货物管理.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.2\obj\x86\Debug\道路运输货物信息状态检测系统.阈值设置.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.2\obj\x86\Debug\道路运输货物信息状态检测系统.csproj.GenerateResource.Cache
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.3\bin\Debug\道路运输货物信息状态检测系统.exe.config
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.3\obj\x86\Debug\道路运输货物信息状态检测系统.exe
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.3\obj\x86\Debug\道路运输货物信息状态检测系统.pdb
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.3\bin\Debug\道路运输货物信息状态检测系统.exe
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.3\bin\Debug\道路运输货物信息状态检测系统.pdb
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.3\bin\Debug\log4net.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.3\bin\Debug\Sensor_Microsec.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.3\bin\Debug\ZedGraph.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.3\bin\Debug\ZedGraph.Web.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.3\obj\x86\Debug\道路运输货物信息状态检测系统.csprojResolveAssemblyReference.cache
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.3\obj\x86\Debug\道路运输货物信息状态检测系统.Properties.Resources.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.3\obj\x86\Debug\道路运输货物信息状态检测系统.主界面.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.3\obj\x86\Debug\道路运输货物信息状态检测系统.即时信息.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.3\obj\x86\Debug\道路运输货物信息状态检测系统.历史信息.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.3\obj\x86\Debug\道路运输货物信息状态检测系统.节点唤醒.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.3\obj\x86\Debug\道路运输货物信息状态检测系统.货物管理.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.3\obj\x86\Debug\道路运输货物信息状态检测系统.阈值设置.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.3\obj\x86\Debug\道路运输货物信息状态检测系统.csproj.GenerateResource.Cache
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.4\bin\Debug\道路运输货物信息状态检测系统.exe.config
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.4\obj\x86\Debug\道路运输货物信息状态检测系统.exe
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.4\obj\x86\Debug\道路运输货物信息状态检测系统.pdb
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.4\obj\x86\Debug\道路运输货物信息状态检测系统.csprojResolveAssemblyReference.cache
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.4\obj\x86\Debug\道路运输货物信息状态检测系统.Properties.Resources.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.4\obj\x86\Debug\道路运输货物信息状态检测系统.主界面.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.4\obj\x86\Debug\道路运输货物信息状态检测系统.即时信息.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.4\obj\x86\Debug\道路运输货物信息状态检测系统.历史信息.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.4\obj\x86\Debug\道路运输货物信息状态检测系统.节点唤醒.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.4\obj\x86\Debug\道路运输货物信息状态检测系统.货物管理.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.4\obj\x86\Debug\道路运输货物信息状态检测系统.阈值设置.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.4\obj\x86\Debug\道路运输货物信息状态检测系统.csproj.GenerateResource.Cache
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.4\bin\Debug\道路运输货物信息状态检测系统.exe
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.4\bin\Debug\道路运输货物信息状态检测系统.pdb
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.4\bin\Debug\log4net.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.4\bin\Debug\Sensor_Microsec.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.4\bin\Debug\ZedGraph.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统3.4\bin\Debug\ZedGraph.Web.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.0\bin\Debug\道路运输货物信息状态检测系统.exe.config
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.0\obj\x86\Debug\道路运输货物信息状态检测系统.exe
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.0\obj\x86\Debug\道路运输货物信息状态检测系统.pdb
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.0\bin\Debug\道路运输货物信息状态检测系统.exe
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.0\bin\Debug\道路运输货物信息状态检测系统.pdb
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.0\bin\Debug\log4net.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.0\bin\Debug\Sensor_Microsec.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.0\bin\Debug\ZedGraph.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.0\bin\Debug\ZedGraph.Web.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.0\obj\x86\Debug\道路运输货物信息状态检测系统.csprojResolveAssemblyReference.cache
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.0\obj\x86\Debug\道路运输货物信息状态检测系统.报警信息.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.0\obj\x86\Debug\道路运输货物信息状态检测系统.Properties.Resources.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.0\obj\x86\Debug\道路运输货物信息状态检测系统.主界面.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.0\obj\x86\Debug\道路运输货物信息状态检测系统.即时信息.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.0\obj\x86\Debug\道路运输货物信息状态检测系统.历史信息.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.0\obj\x86\Debug\道路运输货物信息状态检测系统.节点唤醒.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.0\obj\x86\Debug\道路运输货物信息状态检测系统.货物管理.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.0\obj\x86\Debug\道路运输货物信息状态检测系统.阈值设置.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.0\obj\x86\Debug\道路运输货物信息状态检测系统.csproj.GenerateResource.Cache
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.5\bin\Debug\道路运输货物信息状态检测系统.exe.config
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.exe
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.pdb
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.5\bin\Debug\道路运输货物信息状态检测系统.exe
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.5\bin\Debug\道路运输货物信息状态检测系统.pdb
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.5\bin\Debug\log4net.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.5\bin\Debug\Sensor_Microsec.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.5\bin\Debug\ZedGraph.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.5\bin\Debug\ZedGraph.Web.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.csprojResolveAssemblyReference.cache
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.报警信息.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.Properties.Resources.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.主界面.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.即时信息.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.历史信息.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.节点唤醒.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.货物管理.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.阈值设置.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.csproj.GenerateResource.Cache
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态监测系统备份\道路运输货物信息状态检测系统4.5\bin\Debug\道路运输货物信息状态检测系统.exe.config
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态监测系统备份\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.exe
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态监测系统备份\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.pdb
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态监测系统备份\道路运输货物信息状态检测系统4.5\bin\Debug\道路运输货物信息状态检测系统.exe
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态监测系统备份\道路运输货物信息状态检测系统4.5\bin\Debug\道路运输货物信息状态检测系统.pdb
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态监测系统备份\道路运输货物信息状态检测系统4.5\bin\Debug\log4net.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态监测系统备份\道路运输货物信息状态检测系统4.5\bin\Debug\Sensor_Microsec.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态监测系统备份\道路运输货物信息状态检测系统4.5\bin\Debug\ZedGraph.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态监测系统备份\道路运输货物信息状态检测系统4.5\bin\Debug\ZedGraph.Web.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态监测系统备份\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.csprojResolveAssemblyReference.cache
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态监测系统备份\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.报警信息.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态监测系统备份\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.Properties.Resources.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态监测系统备份\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.主界面.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态监测系统备份\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.即时信息.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态监测系统备份\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.历史信息.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态监测系统备份\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.节点唤醒.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态监测系统备份\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.货物管理.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态监测系统备份\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.阈值设置.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\道路运输货物信息状态监测系统备份\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\备份\道路运输货物信息状态检测系统4.5\bin\Debug\道路运输货物信息状态检测系统.exe.config
+C:\Users\Administrator\Desktop\备份\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.exe
+C:\Users\Administrator\Desktop\备份\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.pdb
+C:\Users\Administrator\Desktop\备份\道路运输货物信息状态检测系统4.5\bin\Debug\道路运输货物信息状态检测系统.exe
+C:\Users\Administrator\Desktop\备份\道路运输货物信息状态检测系统4.5\bin\Debug\道路运输货物信息状态检测系统.pdb
+C:\Users\Administrator\Desktop\备份\道路运输货物信息状态检测系统4.5\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\备份\道路运输货物信息状态检测系统4.5\bin\Debug\Sensor_Microsec.dll
+C:\Users\Administrator\Desktop\备份\道路运输货物信息状态检测系统4.5\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\Desktop\备份\道路运输货物信息状态检测系统4.5\bin\Debug\ZedGraph.Web.dll
+C:\Users\Administrator\Desktop\备份\道路运输货物信息状态检测系统4.5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\备份\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.报警信息.resources
+C:\Users\Administrator\Desktop\备份\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.Properties.Resources.resources
+C:\Users\Administrator\Desktop\备份\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.主界面.resources
+C:\Users\Administrator\Desktop\备份\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.即时信息.resources
+C:\Users\Administrator\Desktop\备份\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.历史信息.resources
+C:\Users\Administrator\Desktop\备份\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.节点唤醒.resources
+C:\Users\Administrator\Desktop\备份\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.货物管理.resources
+C:\Users\Administrator\Desktop\备份\道路运输货物信息状态检测系统4.5\obj\x86\Debug\道路运输货物信息状态检测系统.阈值设置.resources
+C:\Users\Administrator\Desktop\备份\道路运输货物信息状态检测系统4.5\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\备份\道路运输货物信息状态检测系统4.5\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\6.0\bin\Debug\道路运输货物信息状态检测系统.exe.config
+C:\Users\Administrator\Desktop\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.exe
+C:\Users\Administrator\Desktop\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.pdb
+C:\Users\Administrator\Desktop\6.0\bin\Debug\道路运输货物信息状态检测系统.exe
+C:\Users\Administrator\Desktop\6.0\bin\Debug\道路运输货物信息状态检测系统.pdb
+C:\Users\Administrator\Desktop\6.0\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\6.0\bin\Debug\Sensor_Microsec.dll
+C:\Users\Administrator\Desktop\6.0\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\Desktop\6.0\bin\Debug\ZedGraph.Web.dll
+C:\Users\Administrator\Desktop\6.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.报警信息.resources
+C:\Users\Administrator\Desktop\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.Properties.Resources.resources
+C:\Users\Administrator\Desktop\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.主界面.resources
+C:\Users\Administrator\Desktop\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.即时信息.resources
+C:\Users\Administrator\Desktop\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.历史信息.resources
+C:\Users\Administrator\Desktop\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.节点唤醒.resources
+C:\Users\Administrator\Desktop\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.货物管理.resources
+C:\Users\Administrator\Desktop\6.0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\6.0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.变化曲线图.resources
+C:\Users\Administrator\Desktop\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.登陆.resources
+C:\Users\Administrator\Desktop\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.网关设置.resources
+C:\Users\Administrator\Desktop\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.阈值设置.resources
+C:\Users\Administrator\Desktop\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.注册.resources
+C:\Users\Administrator\Desktop\6.0\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\6.0\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\6.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\6.0\bin\Debug\AxInterop.WMPLib.dll
+E:\临时查看的文件\物联网比赛\备份\6.0\bin\Debug\道路运输货物信息状态检测系统.exe.config
+E:\临时查看的文件\物联网比赛\备份\6.0\obj\x86\Debug\Interop.WMPLib.dll
+E:\临时查看的文件\物联网比赛\备份\6.0\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\临时查看的文件\物联网比赛\备份\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.csproj.ResolveComReference.cache
+E:\临时查看的文件\物联网比赛\备份\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.exe
+E:\临时查看的文件\物联网比赛\备份\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.pdb
+E:\临时查看的文件\物联网比赛\备份\6.0\bin\Debug\道路运输货物信息状态检测系统.exe
+E:\临时查看的文件\物联网比赛\备份\6.0\bin\Debug\道路运输货物信息状态检测系统.pdb
+E:\临时查看的文件\物联网比赛\备份\6.0\bin\Debug\log4net.dll
+E:\临时查看的文件\物联网比赛\备份\6.0\bin\Debug\Sensor_Microsec.dll
+E:\临时查看的文件\物联网比赛\备份\6.0\bin\Debug\ZedGraph.dll
+E:\临时查看的文件\物联网比赛\备份\6.0\bin\Debug\ZedGraph.Web.dll
+E:\临时查看的文件\物联网比赛\备份\6.0\bin\Debug\Interop.WMPLib.dll
+E:\临时查看的文件\物联网比赛\备份\6.0\bin\Debug\AxInterop.WMPLib.dll
+E:\临时查看的文件\物联网比赛\备份\6.0\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\临时查看的文件\物联网比赛\备份\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.变化曲线图.resources
+E:\临时查看的文件\物联网比赛\备份\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.报警信息.resources
+E:\临时查看的文件\物联网比赛\备份\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.Properties.Resources.resources
+E:\临时查看的文件\物联网比赛\备份\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.主界面.resources
+E:\临时查看的文件\物联网比赛\备份\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.即时信息.resources
+E:\临时查看的文件\物联网比赛\备份\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.历史信息.resources
+E:\临时查看的文件\物联网比赛\备份\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.注册.resources
+E:\临时查看的文件\物联网比赛\备份\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.登陆.resources
+E:\临时查看的文件\物联网比赛\备份\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.网关设置.resources
+E:\临时查看的文件\物联网比赛\备份\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.节点唤醒.resources
+E:\临时查看的文件\物联网比赛\备份\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.货物管理.resources
+E:\临时查看的文件\物联网比赛\备份\6.0\obj\x86\Debug\道路运输货物信息状态检测系统.阈值设置.resources
+E:\临时查看的文件\物联网比赛\备份\6.0\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\临时查看的文件\物联网比赛\备份\6.0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\6.1\bin\Debug\道路运输货物信息状态检测系统.exe.config
+C:\Users\Administrator\Desktop\6.1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\6.1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.exe
+C:\Users\Administrator\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.pdb
+C:\Users\Administrator\Desktop\6.1\bin\Debug\道路运输货物信息状态检测系统.exe
+C:\Users\Administrator\Desktop\6.1\bin\Debug\道路运输货物信息状态检测系统.pdb
+C:\Users\Administrator\Desktop\6.1\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\6.1\bin\Debug\Sensor_Microsec.dll
+C:\Users\Administrator\Desktop\6.1\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\Desktop\6.1\bin\Debug\ZedGraph.Web.dll
+C:\Users\Administrator\Desktop\6.1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\6.1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\6.1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.变化曲线图.resources
+C:\Users\Administrator\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.报警信息.resources
+C:\Users\Administrator\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.Properties.Resources.resources
+C:\Users\Administrator\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.主界面.resources
+C:\Users\Administrator\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.即时信息.resources
+C:\Users\Administrator\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.历史信息.resources
+C:\Users\Administrator\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.注册.resources
+C:\Users\Administrator\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.登陆.resources
+C:\Users\Administrator\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.网关设置.resources
+C:\Users\Administrator\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.节点唤醒.resources
+C:\Users\Administrator\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.货物管理.resources
+C:\Users\Administrator\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.阈值设置.resources
+C:\Users\Administrator\Desktop\6.1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\6.1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\吴同鹏\Desktop\6.1\bin\Debug\道路运输货物信息状态检测系统.exe.config
+C:\Users\吴同鹏\Desktop\6.1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\吴同鹏\Desktop\6.1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\吴同鹏\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.csproj.ResolveComReference.cache
+C:\Users\吴同鹏\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.exe
+C:\Users\吴同鹏\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.pdb
+C:\Users\吴同鹏\Desktop\6.1\bin\Debug\道路运输货物信息状态检测系统.exe
+C:\Users\吴同鹏\Desktop\6.1\bin\Debug\道路运输货物信息状态检测系统.pdb
+C:\Users\吴同鹏\Desktop\6.1\bin\Debug\log4net.dll
+C:\Users\吴同鹏\Desktop\6.1\bin\Debug\Sensor_Microsec.dll
+C:\Users\吴同鹏\Desktop\6.1\bin\Debug\ZedGraph.dll
+C:\Users\吴同鹏\Desktop\6.1\bin\Debug\ZedGraph.Web.dll
+C:\Users\吴同鹏\Desktop\6.1\bin\Debug\Interop.WMPLib.dll
+C:\Users\吴同鹏\Desktop\6.1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\吴同鹏\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.csprojResolveAssemblyReference.cache
+C:\Users\吴同鹏\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.变化曲线图.resources
+C:\Users\吴同鹏\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.报警信息.resources
+C:\Users\吴同鹏\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.Properties.Resources.resources
+C:\Users\吴同鹏\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.主界面.resources
+C:\Users\吴同鹏\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.即时信息.resources
+C:\Users\吴同鹏\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.历史信息.resources
+C:\Users\吴同鹏\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.注册.resources
+C:\Users\吴同鹏\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.登陆.resources
+C:\Users\吴同鹏\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.网关设置.resources
+C:\Users\吴同鹏\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.节点唤醒.resources
+C:\Users\吴同鹏\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.货物管理.resources
+C:\Users\吴同鹏\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.阈值设置.resources
+C:\Users\吴同鹏\Desktop\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.csproj.GenerateResource.Cache
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\6.1\bin\Debug\道路运输货物信息状态检测系统.exe.config
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\6.1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\6.1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.csproj.ResolveComReference.cache
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.exe
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.pdb
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\6.1\bin\Debug\道路运输货物信息状态检测系统.exe
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\6.1\bin\Debug\道路运输货物信息状态检测系统.pdb
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\6.1\bin\Debug\log4net.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\6.1\bin\Debug\Sensor_Microsec.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\6.1\bin\Debug\ZedGraph.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\6.1\bin\Debug\ZedGraph.Web.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\6.1\bin\Debug\Interop.WMPLib.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\6.1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.csprojResolveAssemblyReference.cache
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.变化曲线图.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.报警信息.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.Properties.Resources.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.主界面.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.即时信息.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.历史信息.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.注册.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.登陆.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.网关设置.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.节点唤醒.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.货物管理.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.阈值设置.resources
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.csproj.GenerateResource.Cache
+D:\space\Visual Studio 2012\Projects\6.1\bin\Debug\道路运输货物信息状态检测系统.exe.config
+D:\space\Visual Studio 2012\Projects\6.1\obj\x86\Debug\Interop.WMPLib.dll
+D:\space\Visual Studio 2012\Projects\6.1\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\space\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.csproj.ResolveComReference.cache
+D:\space\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.exe
+D:\space\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.pdb
+D:\space\Visual Studio 2012\Projects\6.1\bin\Debug\道路运输货物信息状态检测系统.exe
+D:\space\Visual Studio 2012\Projects\6.1\bin\Debug\道路运输货物信息状态检测系统.pdb
+D:\space\Visual Studio 2012\Projects\6.1\bin\Debug\log4net.dll
+D:\space\Visual Studio 2012\Projects\6.1\bin\Debug\Sensor_Microsec.dll
+D:\space\Visual Studio 2012\Projects\6.1\bin\Debug\ZedGraph.dll
+D:\space\Visual Studio 2012\Projects\6.1\bin\Debug\ZedGraph.Web.dll
+D:\space\Visual Studio 2012\Projects\6.1\bin\Debug\Interop.WMPLib.dll
+D:\space\Visual Studio 2012\Projects\6.1\bin\Debug\AxInterop.WMPLib.dll
+D:\space\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.csprojResolveAssemblyReference.cache
+D:\space\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.变化曲线图.resources
+D:\space\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.报警信息.resources
+D:\space\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.Properties.Resources.resources
+D:\space\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.主界面.resources
+D:\space\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.即时信息.resources
+D:\space\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.历史信息.resources
+D:\space\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.注册.resources
+D:\space\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.登陆.resources
+D:\space\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.网关设置.resources
+D:\space\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.节点唤醒.resources
+D:\space\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.货物管理.resources
+D:\space\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.阈值设置.resources
+D:\space\Visual Studio 2012\Projects\6.1\obj\x86\Debug\道路运输货物信息状态检测系统.csproj.GenerateResource.Cache

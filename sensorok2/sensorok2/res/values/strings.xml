@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main">瓦斯浓度监测</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">瓦斯浓度监测</string>
+    <string name="login">系统登录</string>
+    <string name="addoutaccount">二氧化碳</string>
+    <string name="addinaccount">湿度</string>
+    <string name="outaccountinfo">电灯</string>
+    <string name="inaccountinfo">光照</string>
+    <string name="showinfo">风扇</string>
+    <string name="sysset">系统设置</string>
+    <string name="accountflag">温度</string>
+    <string name="infomanage"></string>
+    <string name="flagmanage">瓦斯浓度</string>
+    
+    
+</resources>

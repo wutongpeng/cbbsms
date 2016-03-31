@@ -1,0 +1,10 @@
+E:\Coding\StockManageWebservice\StockManageWebservice\bin\StockManageWebservice.dll
+E:\Coding\StockManageWebservice\StockManageWebservice\bin\StockManageWebservice.pdb
+E:\Coding\StockManageWebservice\StockManageWebservice\obj\Debug\ResolveAssemblyReference.cache
+E:\Coding\StockManageWebservice\StockManageWebservice\obj\Debug\StockManageWebservice.dll
+E:\Coding\StockManageWebservice\StockManageWebservice\obj\Debug\StockManageWebservice.pdb
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\Demo\StockManageWebservice\StockManageWebservice\bin\StockManageWebservice.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\Demo\StockManageWebservice\StockManageWebservice\bin\StockManageWebservice.pdb
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\Demo\StockManageWebservice\StockManageWebservice\obj\Debug\StockManageWebservice.csprojResolveAssemblyReference.cache
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\Demo\StockManageWebservice\StockManageWebservice\obj\Debug\StockManageWebservice.dll
+C:\Users\吴同鹏\Documents\Visual Studio 2012\Projects\Demo\StockManageWebservice\StockManageWebservice\obj\Debug\StockManageWebservice.pdb
